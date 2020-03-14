@@ -1,0 +1,92 @@
+{
+        "dir" : "ltr",
+        "lang" : "en",
+        "name" : "Foulous",
+        "scope" : "/",
+        "display": "fullscreen",
+        "start_url" : "ords/f?p=100:LOGIN_DESKTOP",
+        "short_name" : "Foulous",
+        "theme_color" : "#c93d35",
+        "description" : "Foulous By SITECH",
+        "orientation" : "any",
+        "background_color" : "#FFFFFF",
+        "related_applications" : [],
+        "prefer_related_applications" : false,
+        "icons" : [
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "44x44"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "48x48"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "1240x600"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "300x300"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "150x150"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "88x88"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "24x24"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "50x50"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "620x300"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "192x192"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "144x144"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "96x96"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "72x72"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "36x36"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "1024x1024"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "180x180"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "152x152"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "120x120"
+                },
+                {
+                        "src": "https://sitechgroupe.com/wp-content/uploads/2019/11/foulous.png",
+                        "sizes": "76x76"
+                }]
+}
