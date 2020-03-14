@@ -2,7 +2,7 @@
 
 // Install stage sets up the offline page in the cache and opens a new cache
 self.addEventListener('install', (event) => {
-  const offlinePage = new Request('ords/f?p=100:LOGIN_DESKTOP', {
+  const offlinePage = new Request('ords/f?p=[YOUR_APP_ID]:LOGIN_DESKTOP', {
     headers: { 'Content-Type': 'text/html' }
   });
   event.waitUntil(
